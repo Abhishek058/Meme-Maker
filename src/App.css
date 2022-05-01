@@ -51,8 +51,8 @@ body{
 .meme-toptxt{
   font-family: sans-serif;
   font-size: 50px;
-  color: rgb(201, 201, 201);
-  text-shadow: 2px 3px #000000;
+  color: rgb(209, 209, 209);
+  text-shadow: 2px 2px 3px #000000;
   position: relative;
   left: 90px;
 }
@@ -60,8 +60,8 @@ body{
   font-family: sans-serif;
   font-size: 50px;
   color: rgb(201, 201, 201);
-  text-shadow: 2px 3px #000000;
+  text-shadow: 2px 2px 3px #000000;
   position: relative;
-  top: 200px;
+  bottom: -200px;
   left: 90px;
 }
