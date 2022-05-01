@@ -43,6 +43,25 @@ body{
   border: none;
   cursor: pointer;
 }
+
 .meme--image{
   max-width: 100%;
+  position: absolute;
+}
+.meme-toptxt{
+  font-family: sans-serif;
+  font-size: 50px;
+  color: rgb(201, 201, 201);
+  text-shadow: 2px 3px #000000;
+  position: relative;
+  left: 90px;
+}
+.meme-bottomtxt{
+  font-family: sans-serif;
+  font-size: 50px;
+  color: rgb(201, 201, 201);
+  text-shadow: 2px 3px #000000;
+  position: relative;
+  top: 200px;
+  left: 90px;
 }
